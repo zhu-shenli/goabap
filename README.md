@@ -1,2 +1,0 @@
-# goabap
-show my code
